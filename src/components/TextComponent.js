@@ -4,7 +4,7 @@ import {View, Text} from 'react-native';
 function TextComponent() {
   return (
     <View>
-      <Text>Happy Birthday Storybook</Text>
+      <Text>Storybook Practice for deployment from React native cli</Text>
     </View>
   );
 }
